@@ -1,0 +1,22 @@
+  1 git status
+   2 git add .
+   3 git commit -m "project for AWS resoutce"
+   4 git remote add origin https://github.com/dfeludu4/Git-Class.git
+   5 git push -u origin main
+   6 git branch -M main
+   7 git push -u origin main
+   8 history
+   9 git add .\dijolay1.txt
+  10 git add .\dijolay2.txt
+  11 git commit -m "adding more files"
+  12 git pull origin master
+  13 git pull origin main
+  14 git push origin main
+  15 git checkout -b dijolayb
+  16 git add .\dijolay3.txt
+  17 git commit -m "adding dijolay3 file"
+  18 git checkout master
+  19 git checkout main
+  20 git merge .\dijolayb
+  21 git merge dijolayb
+  22 git push origin main
